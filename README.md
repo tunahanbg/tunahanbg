@@ -3,7 +3,7 @@
 **Jr. AI Software Developer** — RAG, SLM, and NLP architectures
 
 Final-year Computer Engineering @ Gazi University (June 2026)  
-Ankara, Turkey · Open to relocation
+Ankara, Turkey 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahan-buyukgebiz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:buyukgebiztunahan@gmail.com)

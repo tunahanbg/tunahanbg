@@ -2,7 +2,7 @@
 
 **Jr. AI Software Developer** — RAG, SLM, and NLP architectures
 
-Final-year Computer Engineering @ Gazi University (June 2026)  
+Computer Engineering @ Gazi University   
 Ankara, Turkey 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahan-buyukgebiz)
@@ -70,7 +70,3 @@ License plate recognition with YOLOv11, PostgreSQL logging, Streamlit dashboard.
 </p>
 
 ---
-
-<p align="center">
-  <i>Actively looking for AI/NLP roles and internships</i>
-</p>
